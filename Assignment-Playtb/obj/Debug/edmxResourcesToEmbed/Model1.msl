@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="APD66_64011212155ModelStoreContainer" CdmEntityContainer="APD66_64011212155Entities3">
+    <EntitySetMapping Name="YTRooms">
+      <EntityTypeMapping TypeName="APD66_64011212155Model.YTRoom">
+        <MappingFragment StoreEntitySet="YTRoom">
+          <ScalarProperty Name="rid" ColumnName="rid" />
+          <ScalarProperty Name="room_id" ColumnName="room_id" />
+          <ScalarProperty Name="url" ColumnName="url" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

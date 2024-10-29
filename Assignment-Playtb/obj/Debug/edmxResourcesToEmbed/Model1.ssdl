@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="APD66_64011212155Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="YTRoom">
+    <Key>
+      <PropertyRef Name="rid" />
+    </Key>
+    <Property Name="rid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="room_id" Type="varchar" MaxLength="100" />
+    <Property Name="url" Type="varchar" MaxLength="1000" />
+  </EntityType>
+  <EntityContainer Name="APD66_64011212155ModelStoreContainer">
+    <EntitySet Name="YTRoom" EntityType="Self.YTRoom" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

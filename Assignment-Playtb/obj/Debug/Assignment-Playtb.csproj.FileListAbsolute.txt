@@ -1,0 +1,16 @@
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\bin\Debug\Assignment-Playtb.exe.config
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\bin\Debug\Assignment-Playtb.exe
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\bin\Debug\Assignment-Playtb.pdb
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\obj\Debug\Assignment-Playtb.csproj.AssemblyReference.cache
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\obj\Debug\Assignment_Playtb.Form1.resources
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\obj\Debug\Assignment_Playtb.Properties.Resources.resources
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\obj\Debug\Assignment-Playtb.csproj.GenerateResource.cache
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\obj\Debug\Assignment-Playtb.csproj.CoreCompileInputs.cache
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\obj\Debug\Assignment-Playtb.exe
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\obj\Debug\Assignment-Playtb.pdb
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\obj\Debug\Assignment_Playtb.Form2.resources
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\bin\Debug\EntityFramework.dll
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\bin\Debug\EntityFramework.SqlServer.dll
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\bin\Debug\EntityFramework.xml
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\bin\Debug\EntityFramework.SqlServer.xml
+E:\1204311-APD\Lab\Assignment-Playtb\Assignment-Playtb\obj\Debug\Assignment-Playtb.csproj.CopyComplete
